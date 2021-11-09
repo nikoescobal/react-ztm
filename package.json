@@ -1,5 +1,5 @@
 {
-  "name": "react-template",
+  "name": "react-ztm",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -15,7 +15,7 @@
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
-    "homepage": "http://nikoescobal.github.io/react-template",
+    "homepage": "http://nikoescobal.github.io/react-ztm",
     "start": "craco start",
     "build": "craco build",
     "test": "craco test",
